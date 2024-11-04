@@ -1,0 +1,8 @@
+!
+! Title: Vijay's Default Blocklist
+! Description: For home use
+!
+!
+!
+
+||quora.com^
